@@ -1,0 +1,62 @@
+
+
+        _________________________________________________________________________________________________________________________
+
+        <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP5542SM/">
+            <soapenv:Header>
+                <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                    <wsse:UsernameToken>
+                        <wsse:Username>CERTIFSA</wsse:Username>
+                        <wsse:Password>zaq1xsw2</wsse:Password>
+                    </wsse:UsernameToken>
+                </wsse:Security>
+            </soapenv:Header>
+<soapenv:Body>
+        <orac:QuickCustomersCreation>
+                <ruc>2400252777</ruc>
+                <nombre>tyrone</nombre>
+                <tipoContribuyente>C</tipoContribuyente>
+                <direccion>test</direccion>
+                <codigoTelefono>593</codigoTelefono>
+                <numeroTelefono>0945329009</numeroTelefono>
+                <correo>test@hotmail.com</correo>
+                <modo>C</modo>
+                <codePais>EC</codePais>
+                <descripcionPais>ECUADOR</descripcionPais>
+                <codeCiudad>G</codeCiudad>
+                <ciudad>GUAYAQUIL</ciudad>
+            
+</orac:QuickCustomersCreation>
+            </soapenv:Body>
+        </soapenv:Envelope>
+
+
+        _________________________________________________________________________________________________________________________
+
+        <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP5542SM/">
+            <soapenv:Header>
+                <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                    <wsse:UsernameToken>
+                        <wsse:Username>CERTIFSA</wsse:Username>
+                        <wsse:Password>zaq1xsw2</wsse:Password>
+                    </wsse:UsernameToken>
+                </wsse:Security>
+            </soapenv:Header>
+<soapenv:Body>
+        <orac:QuickCustomersCreation>
+                <ruc>2400252777</ruc>
+                <nombre>tyrone</nombre>
+                <tipoContribuyente>C</tipoContribuyente>
+                <direccion>test</direccion>
+                <codigoTelefono>593</codigoTelefono>
+                <numeroTelefono>0945329009</numeroTelefono>
+                <correo>test@hotmail.com</correo>
+                <modo>C</modo>
+                <codePais>EC</codePais>
+                <descripcionPais>ECUADOR</descripcionPais>
+                <codeCiudad>G</codeCiudad>
+                <ciudad>GUAYAQUIL</ciudad>
+            
+</orac:QuickCustomersCreation>
+            </soapenv:Body>
+        </soapenv:Envelope>

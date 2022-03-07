@@ -1,0 +1,51 @@
+[https://vpn.cloudsoluciones.com:7027/PY910/SalesOrderManager?WSDL] Genero el siguiente error [
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book
+               Master file (F0101).
+RESOLUTION. .  Enter a valid address number.
+
+] [2021-11-15 16:15:22]
+[https://vpn.cloudsoluciones.com:7027/PY910/SalesOrderManager?WSDL] Genero el siguiente error [
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book
+               Master file (F0101).
+RESOLUTION. .  Enter a valid address number.
+
+] [2021-11-15 16:44:59]
+[https://vpn.cloudsoluciones.com:7027/PY910/SalesOrderManager?WSDL] Genero el siguiente error [
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book
+               Master file (F0101).
+RESOLUTION. .  Enter a valid address number.
+
+] [2021-11-15 16:50:39]
+[https://vpn.cloudsoluciones.com:7027/PY910/SalesOrderManager?WSDL] Genero el siguiente error [
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book
+               Master file (F0101).
+RESOLUTION. .  Enter a valid address number.
+
+] [2021-11-15 16:55:17]
+[https://vpn.cloudsoluciones.com:7027/PY910/SalesOrderManager?WSDL] Genero el siguiente error [
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book
+               Master file (F0101).
+RESOLUTION. .  Enter a valid address number.
+
+] [2021-11-15 16:56:14]
+[https://vpn.cloudsoluciones.com:7025/DV910/SalesOrderManager?WSDL] Genero el siguiente error [
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master
+               (P4101).
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item
+               Master (P4101).
+
+] [2021-11-15 17:11:11]
+[https://vpn.cloudsoluciones.com:7025/DV910/SalesOrderManager?WSDL] Genero el siguiente error [
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master
+               (P4101).
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item
+               Master (P4101).
+
+] [2021-11-15 17:18:49]
+[https://vpn.cloudsoluciones.com:7025/DV910/SalesOrderManager?WSDL] Genero el siguiente error [
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master
+               (P4101).
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item
+               Master (P4101).
+
+] [2021-11-15 17:20:47]

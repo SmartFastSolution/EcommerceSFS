@@ -1,0 +1,4 @@
+
+
+        _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:QuickCustomersCreationResponse xmlns:ns0="http://oracle.e1.bssv.JP5542SM/"><e1MessageList/><customerResult><numeroDireccion>522592</numeroDireccion><ruc>2400252777</ruc><nombre>tyrone</nombre><tipoContribuyente>C</tipoContribuyente><direccion>test</direccion><codigoTelefono>593</codigoTelefono><numeroTelefono>0945329009</numeroTelefono><correo>cristina@hotmail.com</correo><modo>C</modo><codePais>EC</codePais><descripcionPais>ECUADOR</descripcionPais><codeCiudad>G</codeCiudad><ciudad>GUAYAQUIL</ciudad></customerResult><mensajes/></ns0:QuickCustomersCreationResponse></S:Body></S:Envelope>

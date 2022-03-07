@@ -1,0 +1,1273 @@
+
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>20</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns1="http://www.w3.org/2003/05/soap-envelope" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"><faultcode>ns0:Server</faultcode><faultstring>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/"><message>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</message><requestID>10.0.1.57:49567:1637010916155:0</requestID></ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>20</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns1="http://www.w3.org/2003/05/soap-envelope" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"><faultcode>ns0:Server</faultcode><faultstring>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/"><message>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</message><requestID>10.0.1.57:4956711637012697793:1</requestID></ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>20</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns1="http://www.w3.org/2003/05/soap-envelope" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"><faultcode>ns0:Server</faultcode><faultstring>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/"><message>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</message><requestID>10.0.1.57:4956711637013037343:2</requestID></ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>2</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns1="http://www.w3.org/2003/05/soap-envelope" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"><faultcode>ns0:Server</faultcode><faultstring>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/"><message>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</message><requestID>10.0.1.57:4956711637013316268:3</requestID></ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>20312</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns1="http://www.w3.org/2003/05/soap-envelope" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"><faultcode>ns0:Server</faultcode><faultstring>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/"><message>
+B0100016:CAUSE . . . .  The address number entered is not found in the Address Book&#xd;
+               Master file (F0101).&#xd;
+RESOLUTION. .  Enter a valid address number.&#xd;
+
+</message><requestID>10.0.1.57:4956711637013373172:4</requestID></ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>3</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>9.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-15T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>9.00</priceExtendedDomestic><priceExtendedForeign>9.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>3</quantityOrdered><quantityShippable>3</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000117</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>20</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>4</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns1="http://www.w3.org/2003/05/soap-envelope" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"><faultcode>ns0:Server</faultcode><faultstring>
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master&#xd;
+               (P4101).&#xd;
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item&#xd;
+               Master (P4101).&#xd;
+
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/"><message>
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master&#xd;
+               (P4101).&#xd;
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item&#xd;
+               Master (P4101).&#xd;
+
+</message><requestID>10.0.1.57:4855411637014267995:2</requestID></ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>20</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns1="http://www.w3.org/2003/05/soap-envelope" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"><faultcode>ns0:Server</faultcode><faultstring>
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master&#xd;
+               (P4101).&#xd;
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item&#xd;
+               Master (P4101).&#xd;
+
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/"><message>
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master&#xd;
+               (P4101).&#xd;
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item&#xd;
+               Master (P4101).&#xd;
+
+</message><requestID>10.0.1.57:4855411637014728132:3</requestID></ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>20</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns0:Fault xmlns:ns1="http://www.w3.org/2003/05/soap-envelope" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"><faultcode>ns0:Server</faultcode><faultstring>
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master&#xd;
+               (P4101).&#xd;
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item&#xd;
+               Master (P4101).&#xd;
+
+</faultstring><detail><ns0:BusinessServiceException xmlns:ns0="http://oracle.e1.bssv.JP420000/"><message>
+Item Processor - Array Element1:CAUSE. . . . . The Item Number entered does not exist in the Basic Item Master&#xd;
+               (P4101).&#xd;
+RESOLUTION . . Enter a valid Item number or add the Item to the Basic Item&#xd;
+               Master (P4101).&#xd;
+
+</message><requestID>10.0.1.57:4855411637014845852:4</requestID></ns0:BusinessServiceException></detail></ns0:Fault></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-15</dateOrdered>
+			<dateRequested>2021-11-15</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>3.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-15T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>3.00</priceExtendedDomestic><priceExtendedForeign>3.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000121</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-16</dateOrdered>
+			<dateRequested>2021-11-16</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>3.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-16T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>3.00</priceExtendedDomestic><priceExtendedForeign>3.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000122</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>2</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>6.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>6.00</priceExtendedDomestic><priceExtendedForeign>6.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>2</quantityOrdered><quantityShippable>2</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000123</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>2</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>6.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>6.00</priceExtendedDomestic><priceExtendedForeign>6.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>2</quantityOrdered><quantityShippable>2</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000124</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>3.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>3.00</priceExtendedDomestic><priceExtendedForeign>3.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000125</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>2</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>6.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>6.00</priceExtendedDomestic><priceExtendedForeign>6.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>2</quantityOrdered><quantityShippable>2</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000126</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>3.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>3.00</priceExtendedDomestic><priceExtendedForeign>3.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000127</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>4</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>12.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>12.00</priceExtendedDomestic><priceExtendedForeign>12.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>4</quantityOrdered><quantityShippable>4</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000128</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>2</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>6.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>6.00</priceExtendedDomestic><priceExtendedForeign>6.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>2</quantityOrdered><quantityShippable>2</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000129</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>3.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>3.00</priceExtendedDomestic><priceExtendedForeign>3.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000130</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>2</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>6.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>6.00</priceExtendedDomestic><priceExtendedForeign>6.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>2</quantityOrdered><quantityShippable>2</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000131</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>2</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>6.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>6.00</priceExtendedDomestic><priceExtendedForeign>6.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>2</quantityOrdered><quantityShippable>2</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000132</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-17</dateOrdered>
+			<dateRequested>2021-11-17</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>2</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>6.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-17T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>6.00</priceExtendedDomestic><priceExtendedForeign>6.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>2</quantityOrdered><quantityShippable>2</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000133</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-18</dateOrdered>
+			<dateRequested>2021-11-18</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>20312</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList><e1Messages><message>CAUSE . . . . There is not enough available quantity to completely ship this&#xd;
+              order.&#xd;
+RESOLUTION. . This is a warning. The order will exhaust current availability,&#xd;
+              then backorder or cancel the remaining order quanitity if&#xd;
+              specified in the processing option.&#xd;
+</message><messagePrefix>B4204200 ProcessSODetail - Line #1</messagePrefix></e1Messages><e1Messages><message>CAUSE . . . . There is not enough available quantity to completely ship this&#xd;
+              order.&#xd;
+RESOLUTION. . This is a warning. The order will exhaust current availability,&#xd;
+              then backorder or cancel the remaining order quanitity if&#xd;
+              specified in the processing option.&#xd;
+</message><messagePrefix>B4204200 ProcessSODetail - Line #1</messagePrefix></e1Messages></e1MessageList><header><actionType>A</actionType><amountTotalOrderDomestic>2.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-18T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>2.00</priceExtendedDomestic><priceExtendedForeign>2.00</priceExtendedForeign><priceUnitDomestic>2.0000</priceUnitDomestic><priceUnitForeign>2.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>20312                    </itemCatalog><itemId>73</itemId><itemProduct>20312</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000134</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
+
+    _________________________________________________________________________________________________________________________
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:orac="http://oracle.e1.bssv.JP420000/">
+        <soapenv:Header>
+            <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" soapenv:mustUnderstand="1">
+                <wsse:UsernameToken>
+                    <wsse:Username>CERTIFSA</wsse:Username>
+                    <wsse:Password>zaq1xsw2</wsse:Password>
+                </wsse:UsernameToken>
+            </wsse:Security>
+        </soapenv:Header>
+<soapenv:Body>
+	<orac:processSalesOrderV2>
+		<header>
+			<dateOrdered>2021-11-18</dateOrdered>
+			<dateRequested>2021-11-18</dateRequested>
+            <detail>
+        <processing>
+            <actionType>A</actionType>
+        </processing>
+        <product>
+            <item>
+                <itemProduct>6909</itemProduct>
+            </item>
+        </product>
+        <quantityOrdered>1</quantityOrdered>
+        <shipTo>
+            <entityId>181797</entityId>
+        </shipTo>
+    </detail>
+
+			<processing>
+				<actionType>A</actionType>
+				<processingVersion>DEM0011</processingVersion>
+			</processing>
+			<soldTo>
+				<customer>
+					<entityId>181797</entityId>
+				</customer>
+			</soldTo>
+		</header>
+</orac:processSalesOrderV2>
+    </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    _________________________________________________________________________________________________________________________
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><S:Body><ns0:processSalesOrderV2Response xmlns:ns0="http://oracle.e1.bssv.JP420000/"><e1MessageList/><header><actionType>A</actionType><amountTotalOrderDomestic>3.00</amountTotalOrderDomestic><amountTotalOrderForeign>0</amountTotalOrderForeign><businessUnit>          B2</businessUnit><dates><orderDate>2021-11-18T00:00:00-05:00</orderDate></dates><delivery><carrier/></delivery><detail><dates/><delivery><carrier/></delivery><documentLineNumber>1.000</documentLineNumber><financial><priceExtendedDomestic>3.00</priceExtendedDomestic><priceExtendedForeign>3.00</priceExtendedForeign><priceUnitDomestic>3.0000</priceUnitDomestic><priceUnitForeign>3.0000</priceUnitForeign><unitOfMeasureCodePricing>UN</unitOfMeasureCodePricing></financial><product><item><itemCatalog>6909                     </itemCatalog><itemId>20</itemId><itemProduct>6909</itemProduct></item><lineTypeCode>S </lineTypeCode><lotNumber>                              </lotNumber><statusCodeLast>520</statusCodeLast><statusCodeNext>600</statusCodeNext></product><quantity><quantityBackOrdered>0</quantityBackOrdered><quantityCanceled>0</quantityCanceled><quantityOrdered>1</quantityOrdered><quantityShippable>1</quantityShippable><unitOfMeasureCodeTransaction>UN</unitOfMeasureCodeTransaction></quantity><shipTo><entityId>181797</entityId><entityLongId>0926288804          </entityLongId><entityTaxId>0926288804          </entityTaxId></shipTo></detail><financial><currencyCode>USD</currencyCode><paymentTerms>015</paymentTerms></financial><holdOrderCode>  </holdOrderCode><salesOrderKey><documentCompany>00001</documentCompany><documentNumber>21000135</documentNumber><documentTypeCode>SM</documentTypeCode></salesOrderKey><shipTo><addressLine1>                                        </addressLine1><addressLine2>                                        </addressLine2><addressLine3>                                        </addressLine3><addressLine4>                                        </addressLine4><city>                         </city><countryCode>   </countryCode><countyCode>                         </countyCode><customer><entityId>181797</entityId></customer><mailingName>test1 test1                             </mailingName><postalCode>            </postalCode><stateCode>   </stateCode></shipTo></header></ns0:processSalesOrderV2Response></S:Body></S:Envelope>
